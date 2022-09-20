@@ -1,5 +1,5 @@
 ### Hi there 👋 I am Alao Oluwasegun
-
+- 🌱 I’m currently learning Javascript
 <!--
 **Alaosegun/Alaosegun** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
