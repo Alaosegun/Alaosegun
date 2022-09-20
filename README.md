@@ -1,6 +1,6 @@
 ### Hi there 👋 I am Alao Oluwasegun
 - 🌱 I’m currently learning Javascript
-- ![Alaosegun github stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&hide_border=true)
+- ![Alaosegun github stats](https://github-readme-stats.vercel.app/api?username=Alaosegun&show_icons=true&hide_border=true)
 <!--
 **Alaosegun/Alaosegun** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
